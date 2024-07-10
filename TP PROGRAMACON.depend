@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1720493794 source:c:\users\tatia\onedrive\desktop\franco\tp programacon\main.cpp
+	<iostream>
+	<ctime>
+	"menu.h"
+
+1720494382 c:\users\tatia\onedrive\desktop\franco\tp programacon\menu.h
+
+1720495010 source:c:\users\tatia\onedrive\desktop\franco\tp programacon\menu.cpp
+	<iostream>
+	"menu.h"
+	"juego.h"
+
+1720496097 c:\users\tatia\onedrive\desktop\franco\tp programacon\juego.h
+
+1720497745 source:c:\users\tatia\onedrive\desktop\franco\tp programacon\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1720496461 c:\users\tatia\onedrive\desktop\franco\tp programacon\funciones.h
+
+1720499820 source:c:\users\tatia\onedrive\desktop\franco\tp programacon\juego.cpp
+	<iostream>
+	"juego.h"
+	"funciones.h"
+
